@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tiwani Rathnayake</h1>
 <h3 align="center">Passionate Undergraduate Exploring the Boundaries of Code and Creativity from Sri Lanka</h3>
-
-<img src="https://media4.giphy.com/media/VzGQrj8sLH4GLcSiG1/giphy.gif?cid=ecf05e47qquewblwtdiwhv8oc37kyb2orakv3z3ypx7pnnh7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<div align="center">
+  <img src="<div align="center">
+  <img src="https://media0.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47qquewblwtdiwhv8oc37kyb2orakv3z3ypx7pnnh7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="auto" height="auto" loop="infinite"/>
+</div>
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TiwaniR](https://github.com/TiwaniR)

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiwani Rathnayake</h1>
 <h3 align="center">Passionate Undergraduate Exploring the Boundaries of Code and Creativity from Sri Lanka</h3>
-
+<IMG SRC="giphy.gif">
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TiwaniR](https://github.com/TiwaniR)
